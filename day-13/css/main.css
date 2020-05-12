@@ -1,1 +1,7 @@
 /* Assign styles here */
+.person {
+    font-weight: bold;
+    border: 4px solid purple;
+    margin: 0 0 .1em 0;
+    padding: .2em;
+}

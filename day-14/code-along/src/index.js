@@ -16,7 +16,7 @@ const employeeData = [
     {
         name: "Enrique",
         title: "manager",
-        salary: 200000
+        salary: 150000
     },
     {
         name: "Shana",
@@ -26,7 +26,7 @@ const employeeData = [
     {
         name: "Shana",
         title: "manager",
-        salary: 105000
+        salary: 205000
     },
 ];
 
